@@ -19,6 +19,8 @@ public class Movie {
         System.out.println(m.movieName);
 
         Movie m1 = new Movie(102,"RRR", "Tiwari");
-        System
+        System.out.println(m1.id);
+        System.out.println(m1.director);
+        System.out.println(m1.movieName);
     }
 }
