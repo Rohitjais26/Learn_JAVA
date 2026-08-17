@@ -22,5 +22,10 @@ public class Movie {
         System.out.println(m1.id);
         System.out.println(m1.director);
         System.out.println(m1.movieName);
+
+        Movie m2 = new Movie(102,"RR", "Tiwari");
+        System.out.println(m2.id);
+        System.out.println(m2.director);
+        System.out.println(m2.movieName);
     }
 }
