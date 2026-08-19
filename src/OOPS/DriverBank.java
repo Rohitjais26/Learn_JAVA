@@ -16,5 +16,9 @@ public class DriverBank {
         System.out.println(b1.getEmail(101));   //sbi@gmail.com
         System.out.println(b1.getBalance());  //70000.0
 
+        System.out.println(b2.getBankId());  //102
+        System.out.println(b2.getEmail(101));   //hdfc@gmail.com
+        System.out.println(b2.getBalance());  //40000.0
+
     }
 }
