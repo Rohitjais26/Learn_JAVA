@@ -27,3 +27,14 @@ public class Laptop {
         l.coding();
     }
 }
+
+//Object is a block of memory in which there are multiple variables and methods which stores data in it.
+//Object have unique address
+//eg:- Laptop l = new Laptop()
+// new is a keyword which is use to create a block of memory in leap area.
+// Reference variable(l) is use to store the address of the object.
+
+// Constructor is a non-static member which is name as classname and use to store and intialize the object.
+//eg:- Laptop(){
+//               }
+
