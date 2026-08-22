@@ -8,9 +8,12 @@ public class DriverPhone {
         p.setBrand("Samansung");
         p.setPrice(900000.0);
 
-        System.out.println(p.getID());
-        System.out.println(p.getBrand());
-        System.out.println(p.getPrice());
+        System.out.println(p.getID());//101
+        System.out.println(p.getBrand());//Samsung
+        System.out.println(p.getPrice());//900000.0
 
     }
 }
+
+
+//Factory Method is a process of creating an method throught which we call and return the object is called as Factory Method.
