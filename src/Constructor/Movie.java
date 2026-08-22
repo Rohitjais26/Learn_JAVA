@@ -29,3 +29,7 @@ public class Movie {
         System.out.println(m2.movieName);
     }
 }
+
+// In This Program we have use parameterised Constructor .
+// this is a keyword which is use to always to hold the curent object address.
+//eg:- this.id = id;
