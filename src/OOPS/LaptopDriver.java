@@ -7,7 +7,7 @@ public class LaptopDriver {
         l.getB().setbId(101).setBrand("M2");
         System.out.println(l.getlId()); //201
         System.out.println(l.getlBrand()); //HP
-        System.out.println(l.getB());  //OOPS.Battery@5caf905d
+        System.out.println(l.getB());  //     OOPS.Battery@5caf905d   =>Address of Battery
         System.out.println(l.getB().getbId()); //101
         System.out.println(l.getB().getBrand()); //M2
 
