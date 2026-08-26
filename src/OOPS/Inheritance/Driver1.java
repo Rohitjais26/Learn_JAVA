@@ -14,4 +14,4 @@ public class Driver1 {
 //30
 //MAin ended
 
-
+//In the execution process if we try to access the parent class member with the help of parent class name outside the class only parent class will be loaded.
